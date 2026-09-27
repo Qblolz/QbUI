@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: QbUI: OmniCC
+## Notes: Applies OmniCC cooldown text settings (configurable)
+## Version: 0.1.0
+## Author: Qb
+## Dependencies: QbUI
+## X-Category: Interface Enhancements
+
+OmniCC.lua

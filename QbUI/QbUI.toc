@@ -1,0 +1,25 @@
+## Interface: 50400
+## Title: QbUI
+## Notes: Modular interface configuration
+## Version: 0.1.0
+## Author: Qb
+## SavedVariables: QbUIDB
+## X-Category: Interface Enhancements
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceTimer-3.0\AceTimer-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+
+Core\Core.lua
+Core\Preset.lua
+Core\Presets\Scale.lua
+Core\Presets\Frames.lua
+Core\Presets\UnitFrames.lua
+Core\Presets\Chat.lua
+Core\Presets\CVars.lua
+Core\Presets\Misc.lua

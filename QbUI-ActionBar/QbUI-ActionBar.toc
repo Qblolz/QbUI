@@ -1,0 +1,18 @@
+## Interface: 50400
+## Title: QbUI: ActionBar
+## Notes: Action bar skin and layout (configurable)
+## Version: 0.1.0
+## Author: Qb
+## Dependencies: QbUI
+## X-Category: Interface Enhancements
+
+ActionBar.lua
+modules\bars.lua
+modules\short.lua
+modules\microbags.lua
+modules\skins.lua
+modules\cooldowns.lua
+modules\hotkey.lua
+modules\exprep.lua
+modules\totem.lua
+modules\picomenu.lua
